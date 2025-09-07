@@ -54,7 +54,7 @@ for i in t:
     print(i)
 
 ## For Loop with Strings
-s = "Harry"
+s = "Johny"
 for i in s:
     print(i)
 

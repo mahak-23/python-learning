@@ -1,10 +1,13 @@
-import random
-
 '''
+We all have played snake, water gun game in our childhood. 
+If you haven't, google the rules of this game and write a python program capable of playing this game with the user.
+
 snake = 1
 water = -1
 gun = 0
 '''
+
+import random
 
 computer = random.choice([-1, 0, 1])
 
