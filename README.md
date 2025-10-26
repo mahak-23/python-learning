@@ -12,8 +12,8 @@ This repository contains my complete learning journey through Python programming
 
 #### **Foundation (Ch 1-3): Getting Started**
 - [Ch-1/first.py](Ch-1/first.py) — Your first Python program, modules, comments & pip basics
-- [Ch-2/two.py](Ch-2/two.py) — Variables, data types, operators, and input handling  
-- [Ch-3/three.py](Ch-3/three.py) — String manipulation, slicing, and escape sequences
+- [Ch-2/second.py](Ch-2/second.py) — Variables, data types, operators, and input handling  
+- [Ch-3/third.py](Ch-3/third.py) — String manipulation, slicing, and escape sequences
 
 #### **Core Concepts (Ch 4-6): Building Blocks**
 - [Ch-4/four.py](Ch-4/four.py) — Lists, tuples, indexing, and essential methods
@@ -33,8 +33,16 @@ This repository contains my complete learning journey through Python programming
 - [Ch-12/twelve.py](Ch-12/twelve.py) — Modern Python features, walrus operator, match-case
 - [Ch-13/thirteen.py](Ch-13/thirteen.py) — Virtual environments, lambda functions, functional programming
 
-#### **Practice Problems**
+#### **Practice Problems & Projects**
 - [Ch-11/Problem%20set/04.py](Ch-11/Problem%20set/04.py) — Advanced OOP exercise with inheritance concepts
+
+#### **Mini Projects**
+- [Project-1(Snake-water-gun game)/main.py](Project-1(Snake-water-gun%20game)/main.py) — Interactive Rock-Paper-Scissors game
+- [Project-2(The Perfect Guess)/main.py](Project-2(The%20Perfect%20Guess)/main.py) — Number guessing game with logic
+
+#### **Mega Projects**
+- [Mega-Project-1(Jarvis Virtual Assistant)/main.py](Mega-Project-1(Jarvis%20Virtual%20Assistant)/main.py) — Voice-activated AI assistant
+- [Mega-Project-2(AI AutoReply Bot)/main.py](Mega-Project-2(AI%20AutoReply%20Bot)/main.py) — Intelligent message response system
 
 ## 📖 Detailed Chapter Breakdown
 
@@ -74,16 +82,16 @@ This repository contains my complete learning journey through Python programming
 ## 🎮 Hands-On Projects
 
 ### **🎯 Mini Projects**
-| Project | Description | Skills Practiced |
-|---------|-------------|------------------|
-| **🐍 Snake Water Gun** | Interactive Rock-Paper-Scissors variation with enhanced gameplay | Random module • Conditionals • User input • Game logic |
-| **🎲 Guess The Number** | Number guessing game with intelligent feedback system | Random generation • Loops • Input validation • Logic flow |
+| Project | File Link | Description | Skills Practiced |
+|---------|-----------|-------------|------------------|
+| **🐍 Snake Water Gun** | [📁 Project-1](Project-1(Snake-water-gun%20game)/main.py) | Interactive Rock-Paper-Scissors variation with enhanced gameplay | Random module • Conditionals • User input • Game logic |
+| **🎲 Guess The Number** | [📁 Project-2](Project-2(The%20Perfect%20Guess)/main.py) | Number guessing game with intelligent feedback system | Random generation • Loops • Input validation • Logic flow |
 
-<!-- ### **🚀 Mega Projects**
-| Project | Description | Advanced Concepts |
-|---------|-------------|-------------------|
-| **🤖 Jarvis Virtual Assistant** | Voice-activated AI assistant with multiple capabilities | Speech recognition • API integration • File operations • Modular programming |
-| **💬 AI AutoReply Bot** | Intelligent message response system with contextual replies | Natural language processing • Automation • API handling • AI integration | -->
+### **🚀 Mega Projects**
+| Project | File Link | Description | Advanced Concepts |
+|---------|-----------|-------------|-------------------|
+| **🤖 Jarvis Virtual Assistant** | [📁 Mega-Project-1](Mega-Project-1(Jarvis%20Virtual%20Assistant)/main.py) | AI-powered voice assistant with OpenAI GPT integration | Speech recognition • OpenAI API • Wake word detection • Advanced TTS • News integration |
+| **💬 AI AutoReply Bot** | [📁 Mega-Project-2](Mega-Project-2(AI%20AutoReply%20Bot)/main.py) | WhatsApp automation with AI responses using screen automation | Screen automation • OpenAI GPT • Clipboard operations • Real-time chat monitoring |
 
 ## 💡 Problem Sets & Practice
 
@@ -119,7 +127,10 @@ This repository is based on the excellent **"Ultimate Python Course"** by **Code
 **🔗 Original Resources:**
 - **📖 GitHub Repository**: [CodeWithHarry/The-Ultimate-Python-Course](https://github.com/CodeWithHarry/The-Ultimate-Python-Course)
 - **🎥 YouTube Course**: [Ultimate Python Course Playlist](https://www.youtube.com/watch?v=UrsmFxEIp5k&feature=youtu.be)
-<!-- - **📝 Referenced Example**: [Chapter 11 Problem 4](https://github.com/CodeWithHarry/The-Ultimate-Python-Course/blob/main/Chapter%2011%20-%20PS/04_problem4.py) -->
+- **📝 Referenced Examples**: 
+  - [Chapter 11 Problem 4](https://github.com/CodeWithHarry/The-Ultimate-Python-Course/blob/main/Chapter%2011%20-%20PS/04_problem4.py)
+  - [Mega Project 1 - Jarvis](https://github.com/CodeWithHarry/The-Ultimate-Python-Course/tree/main/Mega%20Project%201%20-%20Jarvis)
+  - [Mega Project 2 - AI AutoReply Bot](https://github.com/CodeWithHarry/The-Ultimate-Python-Course/tree/main/Mega%20Project%202%20-%20AI%20AutoReply%20Bot)
 
 **Special thanks to CodeWithHarry** for creating such high-quality, accessible educational content that makes Python programming approachable for beginners while covering advanced topics thoroughly.
 

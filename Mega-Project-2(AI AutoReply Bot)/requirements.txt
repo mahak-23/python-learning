@@ -1,0 +1,5 @@
+pyautogui==0.9.54
+pyperclip==1.8.2
+openai>=1.0.0
+
+# Note: This project requires screen automation and OpenAI API access
